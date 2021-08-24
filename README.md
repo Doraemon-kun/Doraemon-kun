@@ -1,16 +1,22 @@
-### Hi there 👋
+### AM *(Doraemon-kun)*
+#### 📝 Few about me:
 
-<!--
-**Doraemon-kun/Doraemon-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello everyone, I'm AM, a very normal high school students but do love coding, configuring and doing things on my own.
+I learnt to code since I was in elementary school, because It's fun, and have a lot of challenges.
 
-Here are some ideas to get you started:
+At this time I'm still just a normal coding learner, but I will try to learn more and be a pretty code-proficient person later on. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*(I'm not going to be a developer.... actually)*
+
+#### 😄 Pronouns: AM or DoraKun
+
+#### 🌱 I’m currently learning: 
+
+Python (Object-Oriented Programming), C++ and Dynamic Programming
+
+#### ⚡ Fun fact:
+
+I love watching Anime, and have my anime/manga list at [AniList](https://anilist.co/user/DoraKun/). Also the profile picture is [Kaori Fujimiya](https://anilist.co/character/88037/Kaori-Fujimiya) from Isshuukan Friends, one of my favorite anime series of all time. Really love this one and looking forward to catching up with its sequel manga series.
+
+#### 📫 How to contact me: 
+Actually, no way 🥲
