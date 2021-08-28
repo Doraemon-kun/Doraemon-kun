@@ -24,5 +24,5 @@ I love watching Anime, and have my anime/manga list at [AniList](https://anilist
 </p>
 
 <p align="center">
-<a href="https://github.com/Doraemon-kun"><img src="https://github-readme-stats.vercel.app/api?username=Doraemon-kun&show_icons=true" title="Brought to you by https://github.com/anuraghazra/github-readme-stats"></a>
+<a href="https://github.com/Doraemon-kun"><img src="https://github-readme-stats.vercel.app/api?username=Doraemon-kun&show_icons=true&icon_color=23cf23&title_color=23cf23&locale=en" title="Brought to you by https://github.com/anuraghazra/github-readme-stats"></a>
 </p>
