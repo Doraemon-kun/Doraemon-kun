@@ -20,11 +20,11 @@ I love watching Anime, and have my anime/manga list at [AniList](https://anilist
 
 #### 📫 How to contact me:
 <p align="center">
- <a href="mailto:austin2807@disroot.org"><img src="https://img.shields.io/badge/Disroot-50162d?style=for-the-badge&logo=Disroot&logoColor=white
- " title="Disroot"></a> <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xb1672ffa33e231c1"><img src="https://img.shields.io/badge/PGP-B167%202FFA%2033E2%2031C1-green?style=for-the-badge" title="PGP Public Key"></a> <a href="https://github.com/Doraemon-kun/Doraemon-kun/discussions"><img src="https://img.shields.io/badge/-Discussions-yellow?style=for-the-badge" title="Or go to Discussions tab"></a>
+ <a href="mailto:austin2807@disroot.org"><img src="https://img.shields.io/badge/Disroot-50162d?style=for-the-badge&logo=Disroot&logoColor=white" title="Disroot"></a> <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xb1672ffa33e231c1"><img src="https://img.shields.io/badge/PGP-B167%202FFA%2033E2%2031C1-green?style=for-the-badge" title="PGP Public Key"></a> <a href="https://github.com/Doraemon-kun/Doraemon-kun/discussions"><img src="https://img.shields.io/badge/-Discussions-yellow?style=for-the-badge" title="Or go to Discussions tab"></a>
 </p>
 
-**Announcement (01/05/2024):** The main contact info is now Disroot, as I don't have access to the old Tutanota Email anymore (for over a year now).
+#### <u>**Announcement (01/05/2024):**</u>
+The main contact info is now Disroot, as I don't have access to the old Tutanota Email anymore (for over a year now).
 
 Which also means the PGP key for contacting me also changed. The new key ID is the above-mentioned 0xB1672FFA33E231C1.
 
