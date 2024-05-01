@@ -12,7 +12,7 @@ At this time I'm still just a normal coding learner, but I will try to learn mor
 
 #### 🌱 I’m currently learning: 
 
-Python (Object-Oriented Programming), C++ and Dynamic Programming
+Golang (The real one!) and Manim.
 
 #### ⚡ Fun fact:
 
@@ -20,8 +20,19 @@ I love watching Anime, and have my anime/manga list at [AniList](https://anilist
 
 #### 📫 How to contact me:
 <p align="center">
- <a href="mailto:kaori_2807@tutanota.com"><img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" title="Tutanota Email"></a> <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x3dbaabf4d380e20b"><img src="https://img.shields.io/badge/PGP-3DBA%20ABF4%20D380%20E20B-green?style=for-the-badge" title="PGP Public Key"></a> <a href="https://github.com/Doraemon-kun/Doraemon-kun/discussions"><img src="https://img.shields.io/badge/-Discussions-yellow?style=for-the-badge" title="Or go to Discussions tab"></a>
+ <a href="mailto:austin2807@disroot.org"><img src="https://img.shields.io/badge/Disroot-50162d?style=for-the-badge&logo=Disroot&logoColor=white
+ " title="Disroot"></a> <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xb1672ffa33e231c1"><img src="https://img.shields.io/badge/PGP-B167%202FFA%2033E2%2031C1-green?style=for-the-badge" title="PGP Public Key"></a> <a href="https://github.com/Doraemon-kun/Doraemon-kun/discussions"><img src="https://img.shields.io/badge/-Discussions-yellow?style=for-the-badge" title="Or go to Discussions tab"></a>
 </p>
+
+**Announcement (01/05/2024):** The main contact info is now Disroot, as I don't have access to the old Tutanota Email anymore (for over a year now).
+
+Which also means the PGP key for contacting me also changed. The new key ID is the above-mentioned 0xB1672FFA33E231C1.
+
+The key will be published to [pgp.id](https://pgp.id), [Ubuntu Keyserver](https://keyserver.ubuntu.com), [OpenPGP.org Keyserver](https://keys.openpgp.org), [PGP  Global Directory](https://keyserver.pgp.com) and valid from 12:00 UTC today, May 1st 2024. It is Ed25519 EdDSA, 1 year ESA (Encrypt, Sign, Auth) rotated-validity key. Please make sure that your GPG client or extension supports the algorithm.
+
+GitHub Signing key (0xCC9964A20A6D6991) will not change and will expire in September 2025. I will have another announcement for any changes regarding it over on this README.
+
+I apologise for any inconvenience that I have made and please relay any messages that you might have sent to that old email address to the new email address. Thank you for your understanding.
 
 <p align="center">
 <a href="https://github.com/Doraemon-kun"><img src="https://github-readme-stats.vercel.app/api?username=Doraemon-kun&show_icons=true&icon_color=23cf23&title_color=23cf23&locale=en" title="Brought to you by https://github.com/anuraghazra/github-readme-stats"></a>
